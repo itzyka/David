@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -133,5 +133,4 @@ y en el alma el divino fulgor del equilibrio.</p>
             }
         }
     </script>
-</body>
-</html># David
+
